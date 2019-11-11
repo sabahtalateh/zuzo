@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fa503b104f700e4337a4bf209a56bc8a",
+    "content-hash": "bf9202313d1172c3a50aa159f3cc1cc0",
     "packages": [
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -1416,6 +1416,17 @@
                 "uuid"
             ],
             "time": "2018-07-19T23:38:55+00:00"
+        },
+        {
+            "name": "sabahtalateh/baum",
+            "version": "master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sabahtalateh/baum.git",
+                "reference": "master"
+            },
+            "type": "library",
+            "time": "2019-11-11T20:47:05+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
